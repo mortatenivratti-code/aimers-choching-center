@@ -1,0 +1,6 @@
+{
+  "name": "VidyaSetu Academy - Classes 6–10 Coaching & Learning Portal",
+  "description": "Premier coaching centre and digital learning portal for Classes 6–10. Chapter-wise notes, interactive syllabus, online mock tests, results showcase, and expert board preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
